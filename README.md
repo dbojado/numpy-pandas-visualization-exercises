@@ -1,1 +1,2 @@
-#This repo will cover data science libraries for python 
+Python Libraries Practice 
+This repo will cover python libraries (numpy, pandas, and matplotlib)
